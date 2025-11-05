@@ -5,6 +5,6 @@
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meursault03&layout=compact&langs_count=6&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meursault03&layout=compact&langs_count=6&hide=html&theme=github_dark&hide_border=true"
   />
 </p>
