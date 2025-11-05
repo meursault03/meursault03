@@ -1,4 +1,10 @@
 <p align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=meursault03&show_icons=true&title_color=fff&icon_color=79ff97" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meursault03&hide=html&title_color=fff&icon_color=79ff97" />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=meursault03&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meursault03&layout=compact&langs_count=6&theme=github_dark&hide_border=true"
+  />
 </p>
