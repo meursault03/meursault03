@@ -1,4 +1,4 @@
-# 👋 Hi, I'm João Tomaz
+# 👋 Welcome
 
 Welcome to my GitHub profile!  
 I'm a Computer Engineering undergraduate passionate about data analysis, systems, and building things that actually *work*.
