@@ -1,8 +1,8 @@
-# 👋 Welcome
 
-Welcome to my GitHub profile!  
-I'm a Computer Engineering undergraduate passionate about data analysis, systems, and building things that actually *work*.
+Computer Engineering undergrad @ UFC Sobral  
+Mostly work with Python and Flutter/Dart.
 
+Projects here: data analysis, some experiments, and mobile apps. 
 ---
 
 ## 📊 GitHub Stats
