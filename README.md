@@ -3,6 +3,8 @@ Computer Engineering undergrad @ UFC Sobral
 Mostly work with Python and Flutter/Dart.
 
 Projects here: data analysis, some experiments, and mobile apps. 
+
+
 ---
 
 ## 📊 GitHub Stats
